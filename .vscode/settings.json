@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "stdlib.h": "c",
+    "stdio.h": "c",
+    "random": "c"
+  }
+}
